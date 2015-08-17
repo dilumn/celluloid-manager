@@ -1,0 +1,1 @@
+require 'celluloid/actor/manager'

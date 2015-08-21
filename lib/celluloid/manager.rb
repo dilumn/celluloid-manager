@@ -1,4 +1,4 @@
-require 'celluloid/lock_detection'
-require 'celluloid'
+$CELLULOID_MANAGED = true
 
 require 'celluloid/actor/manager'
+require 'celluloid/actor/report_event'
